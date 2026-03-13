@@ -37,19 +37,6 @@ export default function Home() {
                     <p className="stat-value">Clean • Soft • Intentional</p>
                 </div>
             </div>
-
-            <div className="hero-photo">
-
-                <img src="1.jpeg" alt="Julia Huynh" />
-
-                <span className="tag hard">Hard-working</span>
-                <span className="tag study">Studious</span>
-                <span className="tag self">Self-motivated</span>
-
-                <div className="name-tag">
-                    Julia Huynh
-                </div>
-            </div>
         </section>
 
         <section id="about" className="section container">
@@ -99,7 +86,7 @@ export default function Home() {
         <section id="contact" className="section container">
             <h2>Contact</h2>
             <p className="text">
-                Drop your email and socials. If you want a working form later, we can plug Formspree in 2 minutes.
+                This is my contact section. You can reach me at the email below, or find me on social media. I’m always open to chatting about design, potential opportunities, or just saying hi.
             </p>
 
             <div className="contact-grid">

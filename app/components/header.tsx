@@ -13,10 +13,7 @@ export function Header() {
                     <a href="#about">About</a>
                     <a href="#projects">Projects</a>
                     <a href="#contact">Contact</a>
-
-                    <a href="/Branding">Branding</a>
-                    <a href="/UX">UX</a>
-
+                    <a href="/Branding">Gallery</a>
 
                 </nav>
             </div>
