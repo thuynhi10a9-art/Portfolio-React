@@ -17,7 +17,7 @@ export default function Home() {
                     <p className="kicker">Portfolio • 2026</p>
                     <h1>Interaction Design</h1>
                     <p className="sub">
-                        Hi, I’m Julia Huynh — an Interaction Design student at George Brown College focused on UX/UI design for
+                        Hi, I’m Julia Huynh — an Interaction Design student at George Brown Polytechnic focused on UX/UI design for
                         web and digital products. I specialize in creating intuitive interfaces through research, wireframing,
                         and interactive prototyping. Currently seeking UX/UI internship opportunities in Toronto.
                     </p>
